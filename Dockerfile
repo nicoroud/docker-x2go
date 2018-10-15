@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER Nicoroud
+MAINTAINER nicoroud
 
 # Environment
 ENV DOCKERFILE_UPDATED 2018-10-05
